@@ -1,0 +1,13 @@
+{
+  "name": "ritzhouse-plugins",
+  "owner": {
+    "name": "株式会社リッツハウス"
+  },
+  "plugins": [
+    {
+      "name": "ritzhouse-daily",
+      "source": "./",
+      "description": "リッツハウスの朝礼・終礼スキル。おはよう（朝礼ブリーフィング配信+個人コーチング）としごおわ（終礼ヒアリング+タスク登録）を全社員のCoworkに配布する。運営ログ（Notion共有脳）を介して全セッションが連携し、日々進化する。"
+    }
+  ]
+}
