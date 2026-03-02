@@ -1,11 +1,4 @@
-# macOS
 .DS_Store
-
-# Packaged files (built artifacts)
 *.plugin
 *.skill
-
-# Editor
 .vscode/
-*.swp
-*.swo

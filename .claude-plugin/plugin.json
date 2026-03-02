@@ -1,9 +1,7 @@
 {
   "name": "ritzhouse-daily",
   "version": "0.1.0",
-  "description": "リッツハウスの朝礼・終礼スキル。おはよう（朝礼ブリーフィング配信+個人コーチング）としごおわ（終礼ヒアリング+タスク登録）を全社員のCoworkに配布する。運営ログ（Notion共有脳）を介して全セッションが連携し、日々進化する。",
-  "author": {
-    "name": "株式会社リッツハウス"
-  },
-  "keywords": ["ritzhouse", "朝礼", "終礼", "ブリーフィング", "不動産"]
+  "description": "Ritzhouse morning/evening skills with shared brain via Notion",
+  "author": { "name": "Ritzhouse Inc." },
+  "keywords": ["ritzhouse", "briefing", "real-estate"]
 }
