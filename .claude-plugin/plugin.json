@@ -1,6 +1,6 @@
 {
   "name": "ritzhouse-daily",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Ritzhouse morning/evening skills with shared brain via Notion",
   "author": { "name": "Ritzhouse Inc." },
   "keywords": ["ritzhouse", "briefing", "real-estate"]
